@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! Nurudeen Abdul-Majeed is my name, a passionate learner diving into the world of full-stack web development. Currently, I'm honing my skills through The Odin Project, an amazing resource for aspiring developers. I'm particularly excited about mastering React and building dynamic, user-friendly web applications.
+Nurudeen Abdul-Majeed is my name, a passionate learner diving into the world of full-stack web development. Currently, I'm honing my skills through The Odin Project, an amazing resource for aspiring developers. I'm particularly excited about mastering React and building dynamic, user-friendly web applications.
 
 ## What I'm Learning
 
