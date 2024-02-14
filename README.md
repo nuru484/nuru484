@@ -1,6 +1,4 @@
-# Hi there 👋
-
-# Welcome to My Profile! 👋
+# Hi there, welcome to My Profile! 👋
 
 ## About Me
 
