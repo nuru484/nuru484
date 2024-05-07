@@ -1,5 +1,7 @@
 # Hi, I'm Abdul-Majeed Nurudeen! 👋
 
+![nuru484's Stats](https://github-readme-stats.vercel.app/api?username=nuru484&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## About Me
 
 I am a curious, self-taught developer specializing in full-stack development with a focus on the MERN stack technologies. I am honing my skills through The Odin Project, an open-source, comprehensive, project-based curriculum. I am currently seeking a position where I can collaborate with senior engineers and explore where my curiosity and passion for software development can lead me.
@@ -15,9 +17,7 @@ I am a curious, self-taught developer specializing in full-stack development wit
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,tailwind)](https://skillicons.dev)
-
-![nuru484's Stats](https://github-readme-stats.vercel.app/api?username=nuru484&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
 
 ## Get in Touch
 
