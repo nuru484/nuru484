@@ -4,31 +4,18 @@
 
 ## About Me
 
-I am a curious, self-taught developer specializing in full-stack development with the PERN stack. I built my foundation through The Odin Project's comprehensive, project-based curriculum, which taught me both practical skills and best practices in web development.
+Self-taught full-stack developer specializing in the PERN stack, with strong foundations from The Odin Project. My technical toolkit includes Redis, Prisma ORM, Socket.io, and JWT authentication.
 
-Beyond the core PERN stack, I've expanded my toolkit to include:
+### Key Projects
 
-- Performance: Redis for caching
-- Database: Prisma ORM
-- Real-time Features: Socket.io
-- Security: JWT authentication
+- Full-stack Blog Platform with real-time features and admin dashboard
+- QR Code Event Management System for registration and attendance
+- School Management System for student and course administration
 
-Some notable projects I've built include:
+### Current Focus
 
-- Full-stack Blog Platform: Features real-time commenting and liking, rich text editing and admin dashboard for managing posts.
-- QR Code Event Management System: Handles event registration and attendance tracking using QR codes
-- School Management System: Comprehensive solution for managing students, courses, and grades
+Expanding expertise in systems design, performance optimization, database management, security, and computer science fundamentals. Seeking opportunities to collaborate with senior engineers and apply these skills in production environments.
 
-Currently, I'm deepening my expertise in:
+### Get in Touch
 
-- Systems Design: Microservices architecture, API design patterns
-- Performance: Caching strategies, load balancing, application optimization
-- Database Management: Scaling strategies, query optimization
-- Security: Authentication flows, secure coding practices
-- Computer Science Fundamentals: Data structures, algorithms, Java programming
-
-While seeking a position where I can collaborate with senior engineers to apply these concepts in real-world scenarios and continue growing as a developer.
-
-## Get in Touch
-
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182/) or [Twitter](https://twitter.com/ABDULMAJEEDNUR3)!
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182/) or [Twitter](https://twitter.com/ABDULMAJEEDNUR3)!
