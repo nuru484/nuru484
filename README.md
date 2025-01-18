@@ -4,23 +4,31 @@
 
 ## About Me
 
-I am a curious, self-taught developer specializing in full-stack development with a focus on the MERN stack technologies. I am honing my skills through The Odin Project, an open-source, comprehensive, project-based curriculum. I am currently seeking a position where I can collaborate with senior engineers and explore where my curiosity and passion for software development can lead me.
+I am a curious, self-taught developer specializing in full-stack development with the PERN stack. I built my foundation through The Odin Project's comprehensive, project-based curriculum, which taught me both practical skills and best practices in web development.
 
-## 🌱 Currently Exploring
+Beyond the core PERN stack, I've expanded my toolkit to include:
 
-- Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with ExpressJS, a powerful framework for building RESTful APIs with Node.js.
-  - Diving into MongoDB for efficient and scalable database management.
+- Performance: Redis for caching
+- Database: Prisma ORM
+- Real-time Features: Socket.io
+- Security: JWT authentication
 
-## Tech Stack
+Some notable projects I've built include:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
+- Full-stack Blog Platform: Features real-time commenting and liking, rich text editing and admin dashboard for managing posts.
+- QR Code Event Management System: Handles event registration and attendance tracking using QR codes
+- School Management System: Comprehensive solution for managing students, courses, and grades
+
+Currently, I'm deepening my expertise in:
+
+- Systems Design: Microservices architecture, API design patterns
+- Performance: Caching strategies, load balancing, application optimization
+- Database Management: Scaling strategies, query optimization
+- Security: Authentication flows, secure coding practices
+- Computer Science Fundamentals: Data structures, algorithms, Java programming
+
+While seeking a position where I can collaborate with senior engineers to apply these concepts in real-world scenarios and continue growing as a developer.
 
 ## Get in Touch
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182/) or [Twitter](https://twitter.com/ABDULMAJEEDNUR3)!
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
