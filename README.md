@@ -18,4 +18,4 @@ Expanding expertise in systems design, performance optimization, database manage
 
 ### Get in Touch
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182/) or [Twitter](https://twitter.com/ABDULMAJEEDNUR3)!
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182) or [Twitter](https://twitter.com/ABDULMAJEEDNUR3)!
