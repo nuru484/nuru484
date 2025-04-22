@@ -4,17 +4,20 @@
 
 ## About Me
 
-Self-taught full-stack developer specializing in the PERN stack, with strong foundations from The Odin Project. My technical toolkit includes Redis, Prisma ORM, Socket.io, and JWT authentication.
+Full-stack software engineer with expertise in building scalable web applications and distributed systems. My engineering approach emphasizes clean architecture, performance optimization, and security best practices. I combine practical implementation skills with a commitment to software engineering principles and continuous learning.
 
 ### Key Projects
 
-- Full-stack Blog Platform with real-time features and admin dashboard
-- QR Code Event Management System for registration and attendance
-- School Management System for student and course administration
+- **Enterprise Blog Platform**: Architected a real-time content management system with role-based access control and analytics dashboard.
+- **Event Management Solution**: Developed a distributed system for high-volume registration and attendance tracking with fault tolerance.
 
 ### Current Focus
 
-Expanding expertise in systems design, performance optimization, database management, security, and computer science fundamentals. Seeking opportunities to collaborate with senior engineers and apply these skills in production environments.
+Advancing expertise in distributed systems architecture, algorithm optimization, and computational efficiency. Exploring concurrency models, memory management paradigms, and data structure internals. Committed to engineering practices that balance theoretical foundations with practical implementation needs.
+
+## Professional Approach
+
+Adaptable problem-solver with rapid knowledge acquisition capabilities. I thrive in environments that value first-principles thinking and continuous improvement. My engineering philosophy centers on building maintainable, efficient systems that solve real business problems.
 
 ### Get in Touch
 
