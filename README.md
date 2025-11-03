@@ -4,6 +4,6 @@ Full-stack software engineer with expertise in building scalable web application
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=nuru484&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-### Get in Touch
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182) |[Twitter](https://twitter.com/ABDULMAJEEDNUR3) | [Facebook](https://web.facebook.com/profile.php?id=100080955712476)
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182) |[Twitter](https://twitter.com/ABDULMAJEEDNUR3) | [Facebook](https://web.facebook.com/profile.php?id=100080955712476)
