@@ -6,4 +6,4 @@ Full-stack software engineer with expertise in building scalable web application
 
 
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/nurudeen-abdul-majeed-78266a182/) |[Twitter](https://twitter.com/ABDULMAJEEDNUR3) | [Facebook](https://web.facebook.com/profile.php?id=100080955712476)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/nurudeen-abdul-majeed-78266a182/) |[Twitter](https://x.com/nuru484) | [Facebook](https://web.facebook.com/profile.php?id=100080955712476)
