@@ -1,6 +1,11 @@
-## About Me
+## Fullstack Engineer | Systems Programming Enthusiast | Building for Impact
+Hi, I'm Nurudeen from Ghana. I build production-grade web applications, but I'm really here because I'm obsessed with understanding how computers work at the lowest levels.
 
-Full-stack software engineer with expertise in building scalable web applications and distributed systems. My engineering approach emphasizes clean architecture, performance optimization, and security best practices. I combine practical implementation skills with a commitment to software engineering principles and continuous learning.
+**Background:** Self-taught developer who went from graphic design to full-stack engineering through pure curiosity and necessity. No CS degree, just relentless learning and building.
+
+Check out my pinned repos for my most recent works.
+
+Currently seeking remote opportunities where I can contribute while continuing to grow toward building technology that creates lasting impact.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=nuru484&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
