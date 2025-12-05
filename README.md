@@ -14,7 +14,7 @@ Seeking remote opportunities where I can contribute while growing toward buildin
 
 ### 📊 GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=nuru484\&theme=vue-dark\&show_icons=true\&hide_border=true\&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=nuru484&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
