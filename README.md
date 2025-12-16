@@ -3,7 +3,7 @@
 Hi, I'm **Nurudeen** from Ghana. I build production-grade web applications, but I'm really here because I'm obsessed with understanding how computers work at the lowest levels.
 
 **Background:**
-Self-taught developer who transitioned from graphic design to full-stack engineering through pure curiosity and necessity. No CS degree—just relentless learning and building.
+Self-taught developer who transitioned from graphic design to full-stack engineering through pure curiosity and necessity. No CS degree, just relentless learning and building.
 
 👉 Check out my pinned repos for my latest projects.
 
